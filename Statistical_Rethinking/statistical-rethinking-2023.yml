@@ -1,0 +1,15 @@
+name: statistical-rethinking-2023
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.12
+  - ipython=8.15.0
+  - statsmodels=0.14.0
+  - numpy=1.24.4
+  - arviz=0.16.1
+  - scipy=1.11.2
+  - pymc=5.8.0
+  - pandas=2.1.0
+  - xarray=2023.8.0
+  - matplotlib=3.7.2
